@@ -1,4 +1,4 @@
-# Pagina-Web-simples
+# Página-Web-simples
 
 Bem-vindo ao meu projeto, uma Landing Page simples que criei para o trabalho da Faculdade de Análise e Desenvolvimento de Sistemas.
 
