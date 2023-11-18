@@ -1,6 +1,6 @@
 # Página-Web-simples
 
-Bem-vindo ao meu projeto, uma Landing Page simples que criei para o trabalho da Faculdade de Análise e Desenvolvimento de Sistemas.
+Bem-vindo ao meu primeiro projeto, uma Landing Page simples que criei para o trabalho da Faculdade de Análise e Desenvolvimento de Sistemas.
 
 Objetivos
 
